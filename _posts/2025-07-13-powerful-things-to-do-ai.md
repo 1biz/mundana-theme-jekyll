@@ -3,7 +3,7 @@ layout: post
 title:  "Những điều mạnh mẽ có thể làm được với trí tuệ nhân tạo (AI)"
 author: sal
 categories: [ Công nghệ & Khoa học ]
-image: assets/images/4.jpg
+image: assets/images/20.jpg
 tags: [featured]
 ---
 Trí tuệ nhân tạo không còn là khái niệm xa vời mà đã trở thành lực xoay chuyển mạnh mẽ của thế giới hiện đại. Những ứng dụng thực tiễn dưới đây chứng minh rõ ràng AI đang tạo ra lực đẩy không thể đảo ngược lên hầu hết mọi lĩnh vực của đời sống, kinh doanh, khoa học và công nghệ.
