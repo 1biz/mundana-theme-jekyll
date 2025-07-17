@@ -2,7 +2,7 @@
 layout: post
 title:  "Họ chỉ định đi bơi — Nhưng thứ kéo họ xuống không phải người"
 author: jane
-categories: [ Jekyll, tutorial ]
+categories: [ Chuyện ]
 image: https://images.unsplash.com/photo-1528784351875-d797d86873a1?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80
 tags: [Bí ẩn]
 ---
