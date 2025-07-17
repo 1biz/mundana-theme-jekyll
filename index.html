@@ -168,7 +168,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
    
     <div class="col-md-8 main-loop">
         
-        <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
+        <h4 class="font-weight-bold spanborder"><span>Tất cả các bài viết</span></h4>
         
 
         {% for post in paginator.posts %}
@@ -198,7 +198,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
               {% endfor %}
 
               {% if paginator.next_page %}
-                <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a></li>
+                <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Trang tiếp theo &raquo;</a></li>
               {% else %}
                 <li class="page-item disabled"><span class="next page-link">&raquo;</span></li>
               {% endif %}
