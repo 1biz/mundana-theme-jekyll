@@ -1,7 +1,9 @@
 backend:
   name: github
   repo: 1biz/mundana-theme-jekyll
-  branch: master # or main if your repo uses 'main'
+  branch: master
+  app_id: Ov23liyuoOqJu1RKRdCb
+  auth_scope: "repo"
 
 media_folder: "assets/images"
 public_folder: "/assets/images"
