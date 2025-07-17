@@ -22,7 +22,7 @@ authors:
     sal:
       name:           Nguyễn Văn Anh
       site:           https://www.vietnamscoop.com
-      avatar:         "https://i.ibb.co/x8KRqM7f/avatar1.jpg"
+      avatar:         'assets/images/avatar1.jpg'
       bio:            "Nhà báo chuyên về công nghệ và xã hội."
       email:          hi@vietnamscoop.com
       twitter:        https://x.com/VietnamScoop
@@ -30,7 +30,7 @@ authors:
     jane:
       name:           Trần Thùy Linh
       site:           https://vietnam.net24.news
-      avatar:         "https://i.ibb.co/M5KPyXzv/avatar2.jpg"
+      avatar:         'assets/images/avatar2.jpg'
       bio:            "Biên tập viên và nhà nghiên cứu văn hóa."
       email:          vip@vietnamscoop.com
       twitter:        https://x.com/VietnamScoop    
@@ -44,7 +44,7 @@ defaults:
     values:
       layout: post
       author: sal
-      avatar: "https://i.ibb.co/M5KPyXzv/avatar2.jpg"
+      avatar: 'assets/images/avatar1.jpg'
       
   # all pages
   - scope:
