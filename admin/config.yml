@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: yourusername/yourrepo
+  repo: repo: 1biz/mundana-theme-jekyll
   branch: master # or main if your repo uses 'main'
 
 media_folder: "assets/images"
