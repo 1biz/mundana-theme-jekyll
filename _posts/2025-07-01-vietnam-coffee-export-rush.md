@@ -3,7 +3,7 @@ layout: post
 title:  "Việt Nam lập kỷ lục xuất khẩu cà phê, hướng tới mục tiêu 7,5 tỷ USD năm 2025"
 author: sal
 categories: [ Kinh tế & Kinh doanh ]
-image: assets/images/15.jpg
+image: assets/images/18.jpg
 ---
 Sau nhiều năm giữ vững vị thế là nước xuất khẩu cà phê Robusta lớn nhất thế giới, năm 2025 đánh dấu cột mốc đặc biệt của ngành cà phê Việt Nam. Theo thống kê từ Bộ Nông nghiệp và Phát triển nông thôn, chỉ trong 6 tháng đầu năm 2025, kim ngạch xuất khẩu cà phê đã chạm ngưỡng trên 5,45 tỷ USD – gần bằng tổng xuất khẩu cả năm 2024, và phá vỡ tất cả kỷ lục trước đó. Dự báo, với tốc độ tăng trưởng hiện tại, toàn ngành hoàn toàn có thể "cầm chắc" mục tiêu 7,5 tỷ USD, thậm chí có thể cán mốc 8 tỷ USD trong năm nay.
 
