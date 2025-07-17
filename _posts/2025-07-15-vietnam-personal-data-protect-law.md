@@ -3,7 +3,7 @@ layout: post
 title:  "Luật Bảo vệ Dữ liệu Cá nhân: Bước ngoặt mới về quyền riêng tư"
 author: sal
 categories: [ Thời sự ]
-image: assets/images/2.jpg
+image: assets/images/19.jpg
 ---
 Ngày 26/6/2025, Quốc hội Việt Nam chính thức thông qua Luật Bảo vệ Dữ liệu Cá nhân đầu tiên, đánh dấu một bước ngoặt lớn trong bảo vệ quyền riêng tư của người Việt. Luật sẽ có hiệu lực từ ngày 1/1/2026, đặt ra các tiêu chuẩn bảo mật mới, tác động sâu rộng tới mọi cá nhân, tổ chức xử lý dữ liệu công dân Việt Nam, kể cả doanh nghiệp nước ngoài.
 
