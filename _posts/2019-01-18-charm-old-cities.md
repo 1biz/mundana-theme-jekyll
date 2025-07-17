@@ -3,7 +3,7 @@ layout: post
 title: "NightEagle APT: Lộ Diện Chiến Dịch Tấn Công Zero-Day Exchange Tinh Vi"
 author: jane
 categories: [ CNTT ]
-image: "https://i.ibb.co/bMjjFp6P/Night-Eagle-APT.jpg"
+image: assets/images/NightEagle_APT.jpg
 tags: [sticky]
 ---
 
