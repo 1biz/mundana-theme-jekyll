@@ -7,6 +7,7 @@ image: [assets/images/home.jpg](https://i.ibb.co/bMjjFp6P/Night-Eagle-APT.jpg)
 tags: [sticky]
 ---
 
+
 Các chiến dịch tấn công nâng cao của nhóm đe dọa dai dẳng cấp cao (APT) được biết đến với tên gọi “NightEagle,” hay còn được mã hóa nội bộ là APT-Q-95, đã được công ty an ninh mạng hàng đầu Qian Pangu tiết lộ trong một sự kiện mang tính đột phá tại Hội nghị và Triển lãm An ninh và Quốc phòng Mạng Quốc gia Malaysia năm 2025.
 
 Kể từ năm 2023, Qian Pangu đã theo dõi tỉ mỉ nhóm này, những kẻ đã thể hiện sự linh hoạt vượt trội trong việc khai thác các lỗ hổng chưa được biết đến và triển khai mã độc tùy chỉnh để nhắm mục tiêu vào các ngành công nghiệp có giá trị cao ở Trung Quốc. Các mục tiêu này bao gồm các lĩnh vực công nghệ cao, bán dẫn chip, công nghệ lượng tử, trí tuệ nhân tạo và quân sự.
